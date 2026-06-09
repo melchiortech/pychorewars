@@ -3,10 +3,9 @@
 A simple task manager with colorized output and JSON storage.
 
 ## Installing
-\`\`\`bash
-pip install colorama
-\`\`\`
-
+1. Install python 3+
+2. pip install colorama
+3. cd 'the directory where you installed it(WITHOUT QUOTES)'
 ## Using
 # Adding task
 python main.py add Buy milk
